@@ -11,6 +11,7 @@ Current Capabilities
  - Dimensionality reduction from tens of thousands of genes to a focused set of a few hundred high-confidence candidate genes (ML-ready)
 
 In Development
+ - Refactoring Nautilus into a modular, script- and CLI-based pipeline (removing dependency on Jupyter notebooks)
  - Feature attribution using pmVAE to further narrow to a handful of top-ranked genes
  - Function prediction of top candidates to identify plausible enzymatic roles
  - Multimodal integration of genomic data alongside expression data
