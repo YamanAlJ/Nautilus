@@ -1,3 +1,4 @@
+[In development]
 Nautilus is a biologically informed pipeline for pathway elucidation and gene discovery from transcriptomic data.
 It takes raw gene expression data and produces ranked gene candidates for missing or unknown steps in biosynthetic pathways.
 
